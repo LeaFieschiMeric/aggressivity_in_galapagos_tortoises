@@ -1,0 +1,274 @@
+Date;Daytime;Nb_visitors;Arena;Outcome;Actor ;Recipient;ID_winner;ID_looser;LZeq;LZFmax;Close_resource;Close_to_resource
+14/03/2021;Morning;0;Old;Fight;Dolly;Priscilla;Dolly;Priscilla;#N/A;#N/A;Water_bath;1
+14/03/2021;Morning;0;Old;Intimidation;Priscilla;Dolly;Dolly;Priscilla;#N/A;#N/A;Water_bath;1
+14/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Polly;Priscilla;#N/A;#N/A;Heat_bath;1
+14/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Water_bath;1
+14/03/2021;Morning;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;#N/A;0
+14/03/2021;Morning;0;Old;Intimidation;Polly;Priscilla;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+14/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Water_bath;1
+14/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Water_bath;1
+14/03/2021;Morning;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;Water_bath;1
+14/03/2021;Morning;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Water_bath;1
+14/03/2021;Noon;0;Old;Fight;Priscilla;Polly;Polly;Priscilla;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Fight;Dolly;Priscilla;Priscilla;Dolly;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Intimidation;Priscilla;Dolly;Dolly;Priscilla;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Intimidation;Dolly;Priscilla;Priscilla;Dolly;#N/A;#N/A;#N/A;0
+14/03/2021;Noon;0;Old;Fight;Priscilla;Dolly;Dolly;Priscilla;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Fight;Dolly;Priscilla;Dolly;Priscilla;#N/A;#N/A;Heat_bath;1
+14/03/2021;Noon;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Food;1
+14/03/2021;Noon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Food;1
+14/03/2021;Afternoon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;#N/A;0
+14/03/2021;Afternoon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;#N/A;0
+15/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Fight;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Heat bath;1
+15/03/2021;Morning;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;Food;1
+15/03/2021;Morning;0;Old;Fight;Dolly;Priscilla;Dolly;Priscilla;#N/A;#N/A;#N/A;0
+15/03/2021;Morning;0;Old;Fight;Dolly;Priscilla;Dolly;Priscilla;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Fight;Dolly;Polly;Polly;Dolly;#N/A;#N/A;Food;1
+15/03/2021;Morning;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Fight;Dolly;Priscilla;Priscilla;Dolly;#N/A;#N/A;Heat_bath;1
+15/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Noon;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Noon;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;#N/A;0
+15/03/2021;Noon;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;#N/A;0
+15/03/2021;Noon;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Food;1
+15/03/2021;Noon;0;Old;Fight;Dolly;Polly;Polly;Dolly;#N/A;#N/A;#N/A;0
+15/03/2021;Noon;0;Old;Fight;Priscilla;Polly;Polly;Priscilla;#N/A;#N/A;Food;1
+15/03/2021;Noon;0;Old;Intimidation;Polly;Priscilla;Polly;Priscilla;#N/A;#N/A;Heat_bath;1
+15/03/2021;Noon;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Heat_bath;1
+15/03/2021;Afternoon;0;Old;Fight;Polly;Dolly;Polly;Dolly;#N/A;#N/A;#N/A;0
+15/03/2021;Afternoon;0;Old;Intimidation;Polly;Dolly;Polly;Dolly;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Intimidation;Polly;Priscilla;Polly;Priscilla;#N/A;#N/A;Heat_bath;1
+16/03/2021;Morning;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;Food;1
+16/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Food;1
+16/03/2021;Morning;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;Food;1
+16/03/2021;Morning;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;Food;1
+16/03/2021;Morning;0;Old;Intimidation;Polly;Dolly;Polly;Dolly;#N/A;#N/A;Food;1
+16/03/2021;Morning;0;Old;Fight;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Fight;Polly;Dolly;Polly;Dolly;#N/A;#N/A;#N/A;0
+16/03/2021;Morning;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;Heat_bath;1
+16/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+16/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+16/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Intimidation;Polly;Dolly;Polly;Dolly;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Fight;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Fight;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Fight;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Fight;Polly;Priscilla;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;Heat_bath;1
+16/03/2021;Noon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Food;1
+16/03/2021;Noon;0;Old;Fight;Polly;Dolly;Dolly;Polly;#N/A;#N/A;Food;1
+16/03/2021;Afternoon;0;Old;Fight;Dolly;Priscilla;Priscilla;Dolly;#N/A;#N/A;#N/A;0
+16/03/2021;Afternoon;0;Old;Fight;Priscilla;Polly;Polly;Priscilla;#N/A;#N/A;Heat_bath;1
+16/03/2021;Afternoon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+16/03/2021;Afternoon;0;Old;Fight;Polly;Dolly;Polly;Dolly;#N/A;#N/A;Heat_bath;1
+17/03/2021;Morning;0;Old;Intimidation;Dolly;Priscilla;Dolly;Priscilla;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Intimidation;Dolly;Polly;Dolly;Polly;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Heat_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+17/03/2021;Morning;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;Heat_bath;1
+17/03/2021;Morning;0;Old;Intimidation;Polly;Dolly;Polly;Dolly;#N/A;#N/A;Heat_bath;1
+17/03/2021;Morning;0;Old;Fight;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;Heat_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Intimidation;Polly;Priscilla;Polly;Priscilla;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Intimidation;Dolly;Priscilla;Priscilla;Dolly;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Intimidation;Dolly;Priscilla;Dolly;Priscilla;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Water_bath;1
+17/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Intimidation;Polly;Priscilla;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+17/03/2021;Morning;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;#N/A;0
+17/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;#N/A;0
+17/03/2021;Noon;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;Food;1
+17/03/2021;Noon;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Food;1
+17/03/2021;Noon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Food;1
+17/03/2021;Noon;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Food;1
+17/03/2021;Noon;0;Old;Fight;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;#N/A;0
+17/03/2021;Noon;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;Heat_bath;1
+17/03/2021;Noon;0;Old;Intimidation;Dolly;Polly;Dolly;Polly;#N/A;#N/A;Heat_bath;1
+17/03/2021;Noon;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;#N/A;0
+17/03/2021;Noon;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;Water_bath;1
+17/03/2021;Noon;0;Old;Intimidation;Priscilla;Polly;Polly;Priscilla;#N/A;#N/A;Food;1
+17/03/2021;Noon;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;Food;1
+17/03/2021;Noon;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;Food;1
+17/03/2021;Noon;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Heat_bath;1
+17/03/2021;Noon;0;Old;Peaceful;Polly;Priscilla;;;#N/A;#N/A;#N/A;0
+17/03/2021;Afternoon;0;Old;Intimidation;Priscilla;Polly;Polly;Priscilla;#N/A;#N/A;#N/A;0
+18/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;#N/A;0
+18/03/2021;Morning;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;#N/A;0
+18/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;#N/A;0
+18/03/2021;Morning;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;#N/A;0
+18/03/2021;Morning;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;#N/A;0
+18/03/2021;Morning;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Food;1
+18/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Food;1
+18/03/2021;Morning;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;Water_bath;1
+18/03/2021;Morning;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;Water_bath;1
+18/03/2021;Morning;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;Food;1
+18/03/2021;Morning;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Food;1
+18/03/2021;Morning;0;Old;Intimidation;Priscilla;Dolly;Priscilla;Dolly;#N/A;#N/A;Heat_bath;1
+18/03/2021;Morning;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Peaceful;Dolly;Polly;;;#N/A;#N/A;#N/A;0
+18/03/2021;Noon;0;Old;Intimidation;Dolly;Polly;Dolly;Polly;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Fight;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Food;1
+18/03/2021;Noon;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Food;1
+18/03/2021;Noon;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;Food;1
+18/03/2021;Noon;0;Old;Peaceful;Priscilla;Polly;;;#N/A;#N/A;Food;1
+18/03/2021;Noon;0;Old;Peaceful;Dolly;Priscilla;;;#N/A;#N/A;Food;1
+18/03/2021;Noon;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Food;1
+18/03/2021;Noon;0;Old;Peaceful;Priscilla;Dolly;;;#N/A;#N/A;Food;1
+18/03/2021;Noon;0;Old;Intimidation;Priscilla;Polly;Priscilla;Polly;#N/A;#N/A;Food;1
+18/03/2021;Noon;0;Old;Intimidation;Dolly;Priscilla;Dolly;Priscilla;#N/A;#N/A;Heat_bath;1
+18/03/2021;Noon;0;Old;Fight;Dolly;Priscilla;Dolly;Priscilla;#N/A;#N/A;#N/A;0
+18/03/2021;Noon;0;Old;Peaceful;Polly;Dolly;;;#N/A;#N/A;Food;1
+09/09/2021;Noon;0;New;Intimidation;Polly;Priscilla;Polly;Priscilla;67.9    ;72.8    ;Mud_bath;1
+09/09/2021;Noon;0;New;Fight;Polly;Dolly;Polly;Dolly;67.3    ;80.4    ;Mud_bath;1
+09/09/2021;Noon;0;New;Intimidation;Polly;Dolly;Polly;Dolly;67.6    ;82.2    ;Mud_bath;1
+09/09/2021;Noon;4;New;Intimidation;Polly;Dolly;Polly;Dolly;67.2    ;82.3    ;Mud_bath;1
+09/09/2021;Noon;4;New;Intimidation;Polly;Priscilla;Polly;Priscilla;67.2    ;82.3    ;Mud_bath;1
+09/09/2021;Noon;7;New;Peaceful;Priscilla;Dolly;;;67.7    ;73.4    ;Mud_bath;1
+09/09/2021;Noon;2;New;Peaceful;Dolly;Priscilla;;;66.5    ;85.3    ;Mud_bath;1
+09/09/2021;Afternoon;0;New;Fight;Polly;Dolly;Polly;Dolly;66.3    ;70.5    ;Mud_bath;1
+09/09/2021;Afternoon;3;New;Intimidation;Polly;Dolly;Polly;Dolly;74.3    ;96.6    ;Mud_bath;1
+09/09/2021;Afternoon;3;New;Intimidation;Dolly;Polly;Dolly;Polly;66.7    ;71.6    ;Mud_bath;1
+10/09/2021;Morning;3;New;Fight;Priscilla;Polly;Polly;Priscilla;67.2    ;81.7    ;Mud_bath;1
+10/09/2021;Morning;3;New;Intimidation;Priscilla;Polly;Priscilla;Polly;69.6    ;82.0    ;Mud_bath;1
+10/09/2021;Morning;4;New;Peaceful;Polly;Priscilla;;;69.6    ;83.5    ;Mud_bath;1
+10/09/2021;Morning;0;New;Intimidation;Priscilla;Polly;Priscilla;Polly;69.6    ;83.5    ;Mud_bath;1
+10/09/2021;Morning;0;New;Intimidation;Priscilla;Polly;Priscilla;Polly;65.3    ;69.0    ;Mud_bath;1
+10/09/2021;Noon;3;New;Fight;Polly;Dolly;Polly;Dolly;66.6    ;70.4    ;Mud_bath;1
+10/09/2021;Noon;3;New;Peaceful;Dolly;Polly;;;66.1    ;69.7    ;Mud_bath;1
+10/09/2021;Noon;3;New;Peaceful;Polly;Dolly;;;77.8    ;83.4    ;Mud_bath;1
+10/09/2021;Noon;1;New;Fight;Priscilla;Dolly;Priscilla;Dolly;67.2    ;78.8    ;Mud_bath;1
+10/09/2021;Noon;1;New;Fight;Priscilla;Polly;Polly;Priscilla;69.6    ;73.7    ;Mud_bath;1
+10/09/2021;Noon;1;New;Fight;Polly;Dolly;Polly;Dolly;69.3    ;72.9    ;Mud_bath;1
+10/09/2021;Noon;0;New;Peaceful;Dolly;Polly;;;67.7    ;80.0    ;Food;1
+10/09/2021;Noon;0;New;Fight;Polly;Priscilla;Polly;Priscilla;67.6    ;76.4    ;Food;1
+10/09/2021;Afternoon;0;New;Peaceful;Polly;Priscilla;;;66.7    ;70.6    ;Heat_bath;1
+10/09/2021;Afternoon;0;New;Peaceful;Polly;Dolly;;;66.7    ;70.6    ;Mud_bath;1
+10/09/2021;Afternoon;0;New;Fight;Priscilla;Polly;Polly;Priscilla;66.0    ;71.2    ;Food;1
+10/09/2021;Afternoon;1;New;Intimidation;Priscilla;Dolly;Priscilla;Dolly;66.0    ;69.9    ;Mud_bath;1
+10/09/2021;Afternoon;0;New;Intimidation;Priscilla;Dolly;Priscilla;Dolly;75.9    ;81.2    ;Mud_bath;1
+11/09/2021;Morning;4;New;Peaceful;Priscilla;Polly;;;64.2    ;80.0    ;Mud_bath;1
+11/09/2021;Morning;0;New;Intimidation;Polly;Dolly;Polly;Dolly;64.4    ;68.5    ;Mud_bath;1
+11/09/2021;Noon;0;New;Intimidation;Polly;Priscilla;Polly;Priscilla;63.8    ;71.2    ;Food;1
+11/09/2021;Noon;0;New;Peaceful;Polly;Dolly;;;65.2    ;78.4    ;Food;1
+11/09/2021;Noon;0;New;Intimidation;Dolly;Polly;Dolly;Polly;66.9    ;71.9    ;Food;1
+11/09/2021;Noon;0;New;Fight;Polly;Dolly;Polly;Dolly;67.3    ;72.7    ;Food;1
+11/09/2021;Noon;0;New;Fight;Polly;Dolly;Polly;Dolly;67.4    ;75.5    ;Food;1
+11/09/2021;Noon;0;New;Fight;Priscilla;Polly;Polly;Priscilla;66.1    ;73.8    ;Food;1
+11/09/2021;Noon;0;New;Peaceful;Polly;Dolly;;;68.5    ;77.7    ;Food;1
+11/09/2021;Noon;0;New;Intimidation;Priscilla;Dolly;Priscilla;Dolly;67.6    ;77.4    ;Food;1
+11/09/2021;Afternoon;0;New;Peaceful;Priscilla;Dolly;;;67.1    ;86.6    ;Heat_bath;1
+11/09/2021;Afternoon;0;New;Peaceful;Dolly;Priscilla;;;64.3    ;77.7    ;Mud_pond;1
+12/09/2021;Noon;0;New;Peaceful;Priscilla;Dolly;;;65.2    ;70.5    ;Water_bath;1
+12/09/2021;Noon;1;New;Peaceful;Polly;Dolly;;;66.4    ;70.3    ;Food;1
+12/09/2021;Afternoon;0;New;Fight;Dolly;Priscilla;Priscilla;Dolly;66.7    ;69.9    ;Water_bath;1
+12/09/2021;Afternoon;0;New;Intimidation;Dolly;Priscilla;Priscilla;Dolly;66.5    ;70.0    ;#N/A;0
+12/09/2021;Afternoon;1;New;Fight;Priscilla;Dolly;Dolly;Priscilla;66.2    ;80.6    ;Food;1
+12/09/2021;Afternoon;0;New;Peaceful;Priscilla;Dolly;;;64.5    ;68.8    ;Food;1
+12/09/2021;Afternoon;0;New;Peaceful;Dolly;Priscilla;;;66.4    ;69.7    ;Heat_bath;1
+13/09/2021;Noon;0;New;Fight;Polly;Priscilla;Priscilla;Polly;68.2    ;72.5    ;Food;1
+13/09/2021;Noon;0;New;Fight;Polly;Dolly;Dolly;Polly;68.2    ;72.5    ;Food;1
+13/09/2021;Noon;0;New;Peaceful;Polly;Priscilla;;;67.8    ;71.8    ;Food;1
+13/09/2021;Noon;0;New;Fight;Priscilla;Polly;Polly;Priscilla;67.9    ;72.5    ;Food;1
+13/09/2021;Noon;0;New;Intimidation;Polly;Priscilla;Priscilla;Polly;66.2    ;72.4    ;Heat_bath;1
+13/09/2021;Noon;0;New;Fight;Polly;Priscilla;Polly;Priscilla;66.2    ;72.4    ;Heat_bath;1
+13/09/2021;Noon;1;New;Fight;Dolly;Polly;Polly;Dolly;67.9    ;74.0    ;Heat_bath;1
+13/09/2021;Noon;1;New;Fight;Polly;Dolly;Polly;Dolly;67.4    ;75.4    ;Heat_bath;1
+13/09/2021;Afternoon;0;New;Peaceful;Priscilla;Dolly;;;65.8;71.1;Mud_bath;1
+14/09/2021;Morning;5;New;Fight;Polly;Dolly;Polly;Dolly;71.3;80.8;Mud_bath;1
+14/09/2021;Noon;4;New;Fight;Dolly;Polly;Polly;Dolly;66.8;75.7;Mud_bath;1
+14/09/2021;Noon;0;New;Fight;Polly;Dolly;Polly;Dolly;66.8;70.5;Mud_bath;1
+14/09/2021;Noon;0;New;Intimidation;Polly;Dolly;Polly;Dolly;79.4;84.3;Mud_bath;1
+14/09/2021;Noon;0;New;Fight;Polly;Dolly;Polly;Dolly;68.8;72.8;Mud_bath;1
+14/09/2021;Noon;0;New;Intimidation;Polly;Dolly;Polly;Dolly;69.9;74.8;Mud_bath;1
+14/09/2021;Noon;0;New;Intimidation;Polly;Priscilla;Polly;Priscilla;70.6;73.7;Mud_bath;1
+14/09/2021;Noon;0;New;Peaceful;Dolly;Polly;;;74.6;79.8;Mud_bath;1
+14/09/2021;Afternoon;5;New;Peaceful;Polly;Dolly;;;65.4;70.6;Food;1
+14/09/2021;Afternoon;5;New;Peaceful;Priscilla;Polly;;;65.8;77.5;Food;1
+14/09/2021;Afternoon;0;New;Peaceful;Priscilla;Polly;;;66.0    ;70.9    ;Food;1
+15/09/2021;Noon;0;New;Fight;Priscilla;Polly;Priscilla;Polly;67.5    ;80.6    ;Food;1
+15/09/2021;Noon;0;New;Peaceful;Priscilla;Dolly;;;64.6    ;71.2    ;Food;1
+15/09/2021;Afternoon;2;New;Fight;Dolly;Polly;Polly;Dolly;69.2    ;82.5    ;Mud_bath;1
+15/09/2021;Afternoon;0;New;Peaceful;Priscilla;Dolly;;;69.2    ;82.5    ;Heat_bath;1
+15/09/2021;Afternoon;0;New;Fight;Polly;Priscilla;Priscilla;Polly;71.1    ;80.7    ;Mud_bath;1
+15/09/2021;Afternoon;0;New;Fight;Priscilla;Polly;Priscilla;Polly;80.3    ;89.1    ;Mud_bath;1
+15/09/2021;Afternoon;0;New;Intimidation;Priscilla;Polly;Priscilla;Polly;65.0    ;71.1    ;Mud_bath;1
+15/09/2021;Afternoon;0;New;Intimidation;Priscilla;Polly;Priscilla;Polly;66.0    ;76.4    ;Mud_bath;1
+15/09/2021;Afternoon;0;New;Intimidation;Priscilla;Polly;Priscilla;Polly;65.0    ;73.1    ;Mud_bath;1
+15/09/2021;Afternoon;0;New;Intimidation;Priscilla;Polly;Priscilla;Polly;67.5    ;71.1    ;Mud_bath;1
+16/09/2021;Noon;18;New;Peaceful;Polly;Dolly;;;67.6    ;74.1    ;#N/A;0
+16/09/2021;Noon;18;New;Fight;Polly;Priscilla;Priscilla;Polly;66.3    ;75.1    ;Heat_bath;1
+16/09/2021;Noon;0;New;Fight;Polly;Priscilla;Priscilla;Polly;65.8    ;69.8    ;Heat_bath;1
+16/09/2021;Noon;0;New;Peaceful;Polly;Dolly;;;67.0    ;71.6    ;#N/A;0
+16/09/2021;Noon;0;New;Peaceful;Polly;Dolly;;;66.6    ;70.4    ;Food;1
+16/09/2021;Afternoon;0;New;Fight;Priscilla;Dolly;Priscilla;Dolly;64.3    ;68.5    ;Heat_bath;1
+17/09/2021;Morning;4;New;Intimidation;Priscilla;Polly;Priscilla;Polly;68.4    ;79.9    ;Mud_bath;1
+17/09/2021;Morning;1;New;Fight;Polly;Priscilla;Polly;Priscilla;67.2    ;82.2    ;Heat_bath;1
+17/09/2021;Morning;1;New;Fight;Polly;Priscilla;Polly;Priscilla;71.9    ;83.5    ;Heat_bath;1
+17/09/2021;Morning;1;New;Intimidation;Polly;Priscilla;Polly;Priscilla;68.1    ;98.1    ;Heat_bath;1
+17/09/2021;Noon;0;New;Fight;Priscilla;Polly;Polly;Priscilla;68.9    ;80.7    ;Heat_bath;1
+17/09/2021;Noon;0;New;Intimidation;Priscilla;Polly;Priscilla;Polly;68.8    ;78.5    ;Heat_bath;1
+17/09/2021;Noon;0;New;Peaceful;Dolly;Priscilla;;;70.0    ;86.2    ;Food;1
+17/09/2021;Noon;0;New;Intimidation;Polly;Dolly;Polly;Dolly;68.7    ;75.9    ;Food;1
+17/09/2021;Noon;0;New;Fight;Priscilla;Polly;Polly;Priscilla;69.3    ;79.9    ;Heat_bath;1
+17/09/2021;Noon;0;New;Intimidation;Polly;Dolly;Polly;Dolly;70.7    ;80.9    ;Heat_bath;1
+17/09/2021;Afternoon;0;New;Peaceful;Dolly;Polly;;;66.9    ;78.6    ;Food;1
+17/09/2021;Afternoon;0;New;Fight;Dolly;Polly;Polly;Dolly;73.0    ;90.0    ;Mud_bath;1
+17/09/2021;Afternoon;0;New;Intimidation;Polly;Dolly;Polly;Dolly;67.4    ;78.5    ;Mud_bath;1
+17/09/2021;Afternoon;0;New;Peaceful;Priscilla;Polly;;;63.6    ;67.5    ;Mud_bath;1
+18/09/2021;Morning;0;New;Peaceful;Priscilla;Polly;;;68.2    ;77.3    ;Mud_bath;1
+18/09/2021;Morning;2;New;Peaceful;Dolly;Priscilla;;;69.4    ;79.3    ;Food;1
+18/09/2021;Morning;0;New;Fight;Polly;Dolly;Polly;Dolly;69.5    ;78.3    ;Food;1
+18/09/2021;Noon;0;New;Fight;Dolly;Polly;Polly;Dolly;74.9    ;85.4    ;Heat_bath;1
+18/09/2021;Afternoon;0;New;Peaceful;Dolly;Priscilla;;;67.4    ;78.4    ;Heat_bath;1
+18/09/2021;Afternoon;0;New;Fight;Polly;Priscilla;Priscilla;Polly;67.6    ;78.3    ;Heat_bath;1
+18/09/2021;Afternoon;0;New;Peaceful;Dolly;Priscilla;;;65.9    ;78.0    ;Heat_bath;1
